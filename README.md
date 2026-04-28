@@ -109,10 +109,8 @@ All services and repositories are registered in `Program.cs` and injected via co
 ## 📦 NuGet Packages
 
 ```
-Microsoft.EntityFrameworkCore
 Microsoft.EntityFrameworkCore.SqlServer
 Microsoft.EntityFrameworkCore.Tools
-Swashbuckle.AspNetCore
 ```
 
 ---
